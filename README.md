@@ -7,7 +7,7 @@
 
 # 先報名(有報名且通過解題~才有證書)
 
-# 3.8-3.9登入GITHUB平台先學習基本內容
+# 3.8-3.9  登入GITHUB平台先學習基本內容
 - CTF 入門:透過參與CTF搶旗大賽學習資安實務  [[YOUTUBE教學錄影]](https://youtu.be/Bcxyx3lJG8w)
 - 快速認識Linux作業系統 [[YOUTUBE教學錄影]](https://youtu.be/0T4o81Vghio)
 - 認識 `隱寫術(Steganography)` [[YOUTUBE教學影片]](https://youtu.be/EJk3l64WPsQ)
@@ -38,7 +38,8 @@
 - 4.廻圈(loop)  [[YOUTUBE教學影片]](https://youtu.be/12I7eNHQpgY) 
 - 5.函數(function)  [[YOUTUBE教學影片]](https://youtu.be/tRtsxZ73LVk) 
 
-# 3.11 跟著講師示範 [點選登入Google Meet吧 (上課日期早上8:50才會開啟)]()
+# 3.11 跟著講師示範 
+- [點選登入Google Meet吧 (上課日期早上8:50才會開啟)]()
   - 9:00-9:50 CTF解題
   - 11:10-12:00 Linux 解題示範
   - 13:50-14:40 Python資安應用解題
