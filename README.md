@@ -7,12 +7,12 @@
 
 # 先報名(有報名且通過解題~才有證書)
 
-# 3.8-3.9  登入GITHUB平台先學習基本內容
+# 3.8-3.9  登入GITHUB平台先學習基本內容(建議依定要先看完)
 - CTF 入門:透過參與CTF搶旗大賽學習資安實務  [[YOUTUBE教學錄影]](https://youtu.be/Bcxyx3lJG8w)
 - 快速認識Linux作業系統 [[YOUTUBE教學錄影]](https://youtu.be/0T4o81Vghio)
 - 認識 `隱寫術(Steganography)` [[YOUTUBE教學影片]](https://youtu.be/EJk3l64WPsQ)
 - Linux == > 練習安裝教學環境
-- 在你的電腦安裝教學環境:本課程使用虛擬機匯入Kali Linux進行教學
+  - 在你的電腦安裝教學環境:本課程使用虛擬機匯入Kali Linux進行教學
   - 步驟1:在你的電腦下載 [virtual box](https://www.virtualbox.org/wiki/Downloads) 並安裝完成 
     - YOUTUBE 教學影片[Virtualbox安裝](https://youtu.be/FC0CX71aGnc)
   - 步驟2:點選資料下載點, 下載這些龐大的系統
@@ -22,7 +22,7 @@
       - [Ubuntu 22.04 Desktop.ova](https://drive.google.com/file/d/1H8PJ80jzbmQ3P7cGMGdpBofMjqYa3yMp/view?usp=sharing)  | [Kali Linux.ova(2022.4)](https://drive.google.com/file/d/1k6_UUZeb3bzGv4kema0EO95jzQWzLv2E/view?usp=sharing)
   - 步驟3:匯入你要用的linux  [[YOUTUBE教學錄影]](https://youtu.be/GTpQR7fZcwE)
 
-# 3.9 平台開放 ~ 根據 教學錄影 自己練習解題
+# 3.9 平台開放 ~ 根據 教學錄影 自己練習解題(你自己決定要學多少!先學那些!)
 ### CTF 入門: 如果你從沒上過CTF課程,就請先學習 ~ 如果學過 ==> 可以略過此部分
 - CTF 入門:透過參與CTF搶旗大賽學習資安實務  [[YOUTUBE教學錄影]](https://youtu.be/Bcxyx3lJG8w)
 - 起手式---文件隱寫術之word隱身術{隱寫術101::STEG1}[[YOUTUBE教學錄影]](https://youtu.be/aeXnuZi3XOk)
@@ -45,7 +45,7 @@
   - 13:50-14:40 Python資安應用解題
   - 15:50-16:40 Python PPC解題
 
-## 3.11-3.12 衝ㄚ~ 來次破台吧!~~  把所有題目全解完
+## 3.11-3.12 衝ㄚ~ 來次破台(BreakALL)吧!~~  把所有題目全解完
 
 ## 3.12 23:59平台關閉 並計算你的解題數
 
