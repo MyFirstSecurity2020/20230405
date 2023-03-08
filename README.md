@@ -7,7 +7,8 @@
 
 # 先報名(有報名且通過解題~才有證書)
 
-# 3.8-3.9  登入GITHUB平台先學習基本內容(建議依定要先看完)
+# 3.8-3.9 建議一定自己要先看完並完成Linux教學環境安裝練習
+-  登入GITHUB平台先學習基本內容
 - CTF 入門:透過參與CTF搶旗大賽學習資安實務  [[YOUTUBE教學錄影]](https://youtu.be/Bcxyx3lJG8w)
 - 快速認識Linux作業系統 [[YOUTUBE教學錄影]](https://youtu.be/0T4o81Vghio)
 - 認識 `隱寫術(Steganography)` [[YOUTUBE教學影片]](https://youtu.be/EJk3l64WPsQ)
