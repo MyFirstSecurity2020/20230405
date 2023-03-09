@@ -1,20 +1,18 @@
 #  20230308-20230312 課程
 - 3.8-10 請先自己先學習部分主題
 - 3.11 會有講師示範各種類型主題的技術 歐
-  - [線上上課(Google Meet) ](https://meet.google.com/qiw-uwhq-ebn)
-  - Google Meet講師線上Q&A直播教學時間
-    - 900-9:50 CTF自主解題
+  - [線上上課(Google Meet) ](https://meet.google.com/qiw-uwhq-ebn)，講師線上Q&A直播教學
     - 11:10-12:00 Linux 解題教學Q&A
     - 13:50-14:40 Python資源應用解決問題工具Q&A
     - 15:50-16:40 Python PPC解題典Q&A
 - 本課程序強化自主學習所以以3.11上課前一定要先自己(配合錄影教學)完成部分分主題歐
-- [ Discord課程討論區：https://discord.gg/sbDvYZnj ](https://discord.gg/sbDvYZnj)
+- [ Discord課程討論區](https://discord.gg/sbDvYZnj)
 - 上課簽到
-  - [ 3/9 簽到帳](https://forms.gle/LssVjzv5Xx2M9bsX7)
-  - [ 3/10 簽到帳](https://forms.gle/txTa2azDncarirvc7)
-  - [ 3/11 簽到帳](https://forms.gle/rVHF88TVvd43fA6G7)
-  - [ 3/12 簽到帳](https://forms.gle/wcafLfGqiH4PgQNA7)
-- [問卷調查](https://forms.gle/c1rtNLqFtbExGqrU9)
+  - [ 3/9 簽到表](https://forms.gle/LssVjzv5Xx2M9bsX7)
+  - [ 3/10 簽到表](https://forms.gle/txTa2azDncarirvc7)
+  - [ 3/11 簽到表](https://forms.gle/rVHF88TVvd43fA6G7)
+  - [ 3/12 簽到表](https://forms.gle/wcafLfGqiH4PgQNA7)
+- [課後回饋問卷調查](https://forms.gle/c1rtNLqFtbExGqrU9)
   - (最後填寫!一定要填寫)
 
 ### 線上教學資料及教學錄影
