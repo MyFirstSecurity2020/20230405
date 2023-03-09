@@ -29,7 +29,7 @@
       - [Ubuntu 22.04 Desktop.ova](https://drive.google.com/file/d/1H8PJ80jzbmQ3P7cGMGdpBofMjqYa3yMp/view?usp=sharing)  | [Kali Linux.ova(2022.4)](https://drive.google.com/file/d/1k6_UUZeb3bzGv4kema0EO95jzQWzLv2E/view?usp=sharing)
   - 步驟3:匯入你要用的linux  [[YOUTUBE教學錄影]](https://youtu.be/GTpQR7fZcwE)
 
-# 3.9 平台開放 ~ 根據 教學錄影 自己練習解題
+# 3.9 平台開放 ~ 根據 `教學錄影` 自己先練習解題
 - 你自己決定要學多少!先學那些!
 
 ### CTF 入門: 如果你從沒上過CTF課程,就請先學習 ~ 如果學過 ==> 可以略過此部分
