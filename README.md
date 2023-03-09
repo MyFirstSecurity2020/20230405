@@ -47,7 +47,7 @@
 - 4.廻圈(loop)  [[YOUTUBE教學影片]](https://youtu.be/12I7eNHQpgY) 
 - 5.函數(function)  [[YOUTUBE教學影片]](https://youtu.be/tRtsxZ73LVk) 
 
-# 3.11 跟著講師示範 
+# 3.11 跟著講師示範講解 學習 
 - [點選登入Google Meet吧 (上課日期早上8:50才會開啟)]()
   - 9:00-9:50 CTF解題
   - 11:10-12:00 Linux 解題示範
