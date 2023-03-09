@@ -7,9 +7,9 @@
     - 11:10-12:00 Linux 解題教學Q&A
     - 13:50-14:40 Python資源應用解決問題工具Q&A
     - 15:50-16:40 Python PPC解題典Q&A
--本課程序強化自主學習所以以3.11上課前一定要先自己(配合錄影教學)完成部分分主題歐
+- 本課程序強化自主學習所以以3.11上課前一定要先自己(配合錄影教學)完成部分分主題歐
 - [ Discord課程討論區：https://discord.gg/sbDvYZnj ](https://discord.gg/sbDvYZnj)
--上課簽到
+- 上課簽到
   - [ 3/9 簽到帳](https://forms.gle/LssVjzv5Xx2M9bsX7)
   - [ 3/10 簽到帳](https://forms.gle/txTa2azDncarirvc7)
   - [ 3/11 簽到帳](https://forms.gle/rVHF88TVvd43fA6G7)
