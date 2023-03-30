@@ -1,12 +1,14 @@
-#  20230308-20230312 課程
+#  20230405-20230409 課程
 - [CTF平台解題](https://120.114.62.212/)
-- 3.8-10 請先自己先學習部分主題
-- 3.11 會有講師示範各種類型主題的技術 歐
+- 4.5-4.6 請先自己先學習部分主題
+- 4.8 會有講師示範各種類型主題的技術 歐
   - [線上上課(Google Meet) ](https://meet.google.com/qiw-uwhq-ebn)，講師線上Q&A直播教學
+    - 09:00-09:50 CTF解題教學Q&A
     - 11:10-12:00 Linux 解題教學Q&A
     - 13:50-14:40 Python資源應用解決問題工具Q&A
     - 15:50-16:40 Python PPC解題典Q&A
-- 本課程序強化自主學習所以3.11上課前一定要先自己(配合錄影教學)完成部分主題歐
+
+- 本課程序強化自主學習所以4.6上課前一定要先自己(配合錄影教學)完成部分主題歐
 - [ Discord課程討論區](https://discord.gg/sbDvYZnj)
 - 上課簽到
   - [ 3/9 簽到表](https://forms.gle/LssVjzv5Xx2M9bsX7)
@@ -26,8 +28,8 @@
 - 所有學生只會頒發一次學習證書 歐
 - 但是你可以繼續參加 ~ 不斷學習 ~把所有的題目都解完
 - 然後準備下一階段的課程(會公告於臉書)
-# 3.8-3.9 建議一定自己要先看完並完成Linux教學環境安裝練習
--  登入GITHUB平台先學習基本內容
+# 4.5-4.5 建議一定自己要先看完並完成Linux教學環境安裝練習
+- 登入GITHUB平台先學習基本內容
 - CTF 入門:透過參與CTF搶旗大賽學習資安實務  [[YOUTUBE教學錄影]](https://youtu.be/Bcxyx3lJG8w)
 - 快速認識Linux作業系統 [[YOUTUBE教學錄影]](https://youtu.be/0T4o81Vghio)
 - 認識 `隱寫術(Steganography)` [[YOUTUBE教學影片]](https://youtu.be/EJk3l64WPsQ)
@@ -42,7 +44,7 @@
       - [Ubuntu 22.04 Desktop.ova](https://drive.google.com/file/d/1H8PJ80jzbmQ3P7cGMGdpBofMjqYa3yMp/view?usp=sharing)  | [Kali Linux.ova(2022.4)](https://drive.google.com/file/d/1k6_UUZeb3bzGv4kema0EO95jzQWzLv2E/view?usp=sharing)
   - 步驟3:匯入你要用的linux  [[YOUTUBE教學錄影]](https://youtu.be/GTpQR7fZcwE)
 
-# 3.9 平台開放 ~ 根據 `教學錄影` 自己先練習解題
+# 4.6 平台開放 ~ 根據 `教學錄影` 自己先練習解題
 - 你自己決定要學多少!先學那些!
 
 ### CTF 入門: 如果你從沒上過CTF課程,就請先學習 ~ 如果學過 ==> 可以略過此部分
@@ -60,16 +62,16 @@
 - 4.廻圈(loop)  [[YOUTUBE教學影片]](https://youtu.be/12I7eNHQpgY) 
 - 5.函數(function)  [[YOUTUBE教學影片]](https://youtu.be/tRtsxZ73LVk) 
 
-# 3.11 跟著講師示範講解 學習 
+# 4.8 跟著講師示範講解 學習 
 - [點選登入Google Meet吧 (上課日期早上8:50才會開啟)]()
   - 9:00-9:50 CTF解題
   - 11:10-12:00 Linux 解題示範
   - 13:50-14:40 Python資安應用解題
   - 15:50-16:40 Python PPC解題
 
-## 3.11-3.12 衝ㄚ~ 來次破台(BreakALL)吧!~~  把所有題目全解完
+## 4.8-4.9 衝ㄚ~ 來次破台(BreakALL)吧!~~  把所有題目全解完
 
-## 3.12 23:59平台關閉 並計算你的解題數
+## 4.9 23:59平台關閉 並計算你的解題數
 
 ## 請關注臉書公告證書寄送日
 
