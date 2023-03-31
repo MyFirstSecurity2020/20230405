@@ -19,7 +19,7 @@
   - (最後填寫!一定要填寫)
 
 ### 線上教學資料及教學錄影
--底下所有GITHUB都會持續開放並繼續增加內容== >同學可以盡情學習~無分晝夜
+- 底下所有GITHUB都會持續開放並繼續增加內容== >同學可以盡情學習~無分晝夜
   - [A1_MyFirstSecurity資安入門的第一堂課](https://github.com/MyFirstSecurity2020/20230301)
   - [A2_Linux資安技術入門](https://github.com/MyFirstSecurity2020/20230302)
   - [A3_Python程式與資安應用入門](https://github.com/MyFirstSecurity2020/SF2023A3)
@@ -29,11 +29,11 @@
 - 但是你可以繼續參加 ~ 不斷學習 ~把所有的題目都解完
 - 然後準備下一階段的課程(會公告於臉書)
 # 4.5-4.5 建議一定自己要先看完並完成Linux教學環境安裝練習
-- 登入GITHUB平台先學習基本內容
-- CTF 入門:透過參與CTF搶旗大賽學習資安實務  [[YOUTUBE教學錄影]](https://youtu.be/Bcxyx3lJG8w)
-- 快速認識Linux作業系統 [[YOUTUBE教學錄影]](https://youtu.be/0T4o81Vghio)
-- 認識 `隱寫術(Steganography)` [[YOUTUBE教學影片]](https://youtu.be/EJk3l64WPsQ)
-- Linux == > 練習安裝教學環境
+- A.登入GITHUB平台先學習與觀看基本內容
+  - CTF 入門:透過參與CTF搶旗大賽學習資安實務  [[YOUTUBE教學錄影]](https://youtu.be/Bcxyx3lJG8w)
+  - 快速認識Linux作業系統 [[YOUTUBE教學錄影]](https://youtu.be/0T4o81Vghio)
+  - 認識 `隱寫術(Steganography)` [[YOUTUBE教學影片]](https://youtu.be/EJk3l64WPsQ)
+- B.學習Linux == > 練習安裝教學環境
   - 在你的電腦安裝教學環境:本課程使用虛擬機匯入Kali Linux進行教學
   - 步驟1:在你的電腦下載 [virtual box](https://www.virtualbox.org/wiki/Downloads) 並安裝完成 
     - YOUTUBE 教學影片[Virtualbox安裝](https://youtu.be/FC0CX71aGnc)
