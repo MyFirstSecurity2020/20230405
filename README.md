@@ -11,11 +11,11 @@
 - 本課程序強化自主學習所以4.6上課前一定要先自己(配合錄影教學)完成部分主題歐
 - [ Discord課程討論區](https://discord.gg/sbDvYZnj)
 - 上課簽到
-  - [ 4/5 簽到表]()
-  - [ 4/6 簽到表]()
-  - [ 4/7 簽到表]()
-  - [ 4/8 簽到表]()
-- [課後回饋問卷調查]()
+  - [ 4/5 簽到表](https://forms.gle/e1Dtw8eKzcXumVMN7)
+  - [ 4/6 簽到表](https://forms.gle/xi42veHoWqvwZJ9u5)
+  - [ 4/7 簽到表](https://forms.gle/DXzxme4h3QKcFwyz8)
+  - [ 4/8 簽到表](https://forms.gle/NMSChkdi7xerSdu48)
+- [課後回饋問卷調查](https://forms.gle/WFFpjwFJgDEGiua8A)
   - (最後填寫!一定要填寫)
 
 ### 線上教學資料及教學錄影
