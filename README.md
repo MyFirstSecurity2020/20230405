@@ -9,7 +9,7 @@
     - 15:50-16:40 Python PPC解題典Q&A
 
 - 本課程序強化自主學習所以4.6上課前一定要先自己(配合錄影教學)完成部分主題歐
-- [ Discord課程討論區](https://discord.gg/sbDvYZnj)
+- [ Discord課程討論區](https://discord.gg/yuGEfwtJvy)
 - 上課簽到
   - [ 4/5 簽到表](https://forms.gle/e1Dtw8eKzcXumVMN7)
   - [ 4/6 簽到表](https://forms.gle/xi42veHoWqvwZJ9u5)
