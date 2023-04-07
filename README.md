@@ -2,7 +2,7 @@
 - [CTF平台解題](https://120.114.62.212/)
 - 4.5-4.6 請先自己先學習部分主題
 - 4.8 會有講師示範各種類型主題的技術 歐
-  - [線上上課(Google Meet) ](https://meet.google.com/qiw-uwhq-ebn)，講師線上Q&A直播教學
+  - [線上上課(Google Meet) ](https://meet.google.com/orw-vrcf-ikc)，講師線上Q&A直播教學
     - 09:00-09:50 CTF解題教學Q&A
     - 11:10-12:00 Linux 解題教學Q&A
     - 13:50-14:40 Python資源應用解決問題工具Q&A
