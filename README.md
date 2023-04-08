@@ -63,7 +63,7 @@
 - 5.函數(function)  [[YOUTUBE教學影片]](https://youtu.be/tRtsxZ73LVk) 
 
 # 4.8 跟著講師示範講解 學習 
-- [點選登入Google Meet吧 (上課日期早上8:50才會開啟)]()
+- [點選登入Google Meet吧 (上課日期早上8:50才會開啟)](https://meet.google.com/orw-vrcf-ikc)
   - 9:00-9:50 CTF解題
   - 11:10-12:00 Linux 解題示範
   - 13:50-14:40 Python資安應用解題
