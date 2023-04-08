@@ -39,6 +39,7 @@
     - YOUTUBE 教學影片[Virtualbox安裝](https://youtu.be/FC0CX71aGnc)
   - 步驟2:點選資料下載點, 下載這些龐大的系統
     - 本課程會用到的Kali Linux(比較舊的版本2019) [下載點](https://drive.google.com/file/d/1m620Z7KAOSUOLdFH92FYLE2NINb-vJsn/view?usp=sharing)
+    - Kali Linux(2022.03版，已安裝pwntools) [下載點](https://drive.google.com/file/d/1KPdsctM0NDfqbZPDjW24yek4pzHnZH0U/view?usp=sharing)帳密都是kali
     - Python會用到的Ubuntu Linux 18.04 LTS(已安裝好pwntools)  [下載點](https://drive.google.com/file/d/1aP-qCFP6jKsGYXtKy9ahwZleQSENEi7C/view?usp=sharing)
     - 其他linux版本下載
       - [Ubuntu 22.04 Desktop.ova](https://drive.google.com/file/d/1H8PJ80jzbmQ3P7cGMGdpBofMjqYa3yMp/view?usp=sharing)  | [Kali Linux.ova(2022.4)](https://drive.google.com/file/d/1k6_UUZeb3bzGv4kema0EO95jzQWzLv2E/view?usp=sharing)
